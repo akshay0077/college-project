@@ -1,0 +1,9 @@
+Project Name=Online Voting System
+
+Name= Mit Vasoya
+
+Stream=BCA 5th-sem
+
+Enrolment No=
+
+Roll no=
